@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c068f027.css",
+    "main.js": "/static/js/main.17afd737.js",
+    "static/media/Oval1.svg": "/static/media/Oval1.6d502cb62c48350c3743385f461c0091.svg",
+    "static/media/bg-login.png": "/static/media/bg-login.33c879f6f3da31132196.png",
+    "static/media/1650019949_8-kartinkof-club-p-ups-kartinki-prikolnie-8.png": "/static/media/1650019949_8-kartinkof-club-p-ups-kartinki-prikolnie-8.3fb120d5e014f2f2d16e.png",
+    "static/media/nout.png": "/static/media/nout.3930237e3960a964227e.png",
+    "static/media/gucci.png": "/static/media/gucci.3eba613bcce4bc47b61f.png",
+    "static/media/Kreslo.png": "/static/media/Kreslo.a96107fffe01ecf539e5.png",
+    "static/media/Gaming.svg": "/static/media/Gaming.c5aef5153ab9e8e4b927fa004cfa250b.svg",
+    "static/media/Airplane.svg": "/static/media/Airplane.20cecf9f7cd25eb2b918ff684ed33083.svg",
+    "static/media/In Maintenance.svg": "/static/media/In Maintenance.e17fa3c16fa63dc360cd5293d37b65c9.svg",
+    "static/media/Gifts.svg": "/static/media/Gifts.73b82c295bc58737d1e968929fbeebf0.svg",
+    "static/media/Store.svg": "/static/media/Store.47888382da6feb223d09e4f7915d308a.svg",
+    "static/media/Terminal.svg": "/static/media/Terminal.4651c32e9ef303626d6daa22e1042c27.svg",
+    "static/media/Man.svg": "/static/media/Man.dd22a662b26ba7bd998450ee600efd2f.svg",
+    "static/media/Briefcase.svg": "/static/media/Briefcase.b7b2e2b44c5c386f6c49ab87b2ee4f76.svg",
+    "static/media/Group-footer.svg": "/static/media/Group-footer.37c8dd3220f8b1897e821636cfcad705.svg",
+    "static/media/nav-svg-kivi.svg": "/static/media/nav-svg-kivi.b8a482e5526f2c7f8bc0edbfd6aa18eb.svg",
+    "static/media/logo.svg": "/static/media/logo.4b2730a0cd5f93b09eb8e963d3e0792d.svg",
+    "static/media/kivi.svg": "/static/media/kivi.fc63e57efe8b706ade5d47cd74cafdc5.svg",
+    "static/media/Challenge.svg": "/static/media/Challenge.305564e18d1e24f40026085b8e7aad52.svg",
+    "static/media/Group3radius.svg": "/static/media/Group3radius.796eff0172a42a1f852fcffadde5da9f.svg",
+    "static/media/Icon-Google-Play.svg": "/static/media/Icon-Google-Play.f908cac2c059dbdc98fb22ecfffb55c1.svg",
+    "static/media/icon-apple.svg": "/static/media/icon-apple.26d1c3b5d0eb16d99c0a23ad1581d51b.svg",
+    "static/media/Group.svg": "/static/media/Group.e4e5e0851368eb5ccfd561646558afb1.svg",
+    "static/media/Group-svg.svg": "/static/media/Group-svg.14931cc510e0c60b4aebb37e5f194cb0.svg",
+    "static/media/top-strelka.svg": "/static/media/top-strelka.6fb7f828fee2a174c8161a607394776a.svg",
+    "index.html": "/index.html",
+    "static/media/keyboard-right-arrow-button.svg": "/static/media/keyboard-right-arrow-button.ee752c7639ef0bc620f6a09a6a154d12.svg",
+    "static/media/Line-icon.svg": "/static/media/Line-icon.32c40456f46233d75c66b9ed8314b7bc.svg",
+    "main.c068f027.css.map": "/static/css/main.c068f027.css.map",
+    "main.17afd737.js.map": "/static/js/main.17afd737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c068f027.css",
+    "static/js/main.17afd737.js"
+  ]
+}
